@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/ministryofjustice/hmpps-hardened-container-images/compare/v1.1.1...v1.1.2) (2026-08-27)
+
+
+### Bug Fixes
+
+* runtime node image ([#58](https://github.com/ministryofjustice/hmpps-hardened-container-images/issues/58)) ([5264424](https://github.com/ministryofjustice/hmpps-hardened-container-images/commit/52644243925b61e6e3e028aaa04fa801939da8e5))
+
 ## [1.1.1](https://github.com/ministryofjustice/hmpps-hardened-container-images/compare/v1.1.0...v1.1.1) (2026-08-19)
 
 
